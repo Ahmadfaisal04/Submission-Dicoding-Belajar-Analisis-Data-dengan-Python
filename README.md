@@ -22,7 +22,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/Ahmadfaisal04/Bike-sharing.git
+   git clone https://github.com/Ahmadfaisal04/Submission-Dicoding-Belajar-Analisis-Data-dengan-Python.git
    ```
 
 2. Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
